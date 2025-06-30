@@ -1,0 +1,24 @@
+# Folder yang gak perlu disimpan
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# File VS dan IDE
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# File sistem & build
+.DS_Store
+*.apk
+*.aab
