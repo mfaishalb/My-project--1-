@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Muhammad Faishal\\My project (1)\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\muhammad faishal\\my project (1)\\assets\\slidingdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\slidingdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\muhammad faishal\\my project (1)\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SlidingDoor.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\SlidingDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\SlidingDoor.cs",
+              "ToolTip": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\SlidingDoor.cs",
+              "RelativeToolTip": "Assets\\SlidingDoor.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:09:53.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
