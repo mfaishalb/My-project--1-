@@ -26,11 +26,7 @@ public class SlidingDoor : MonoBehaviour
 
     void Update()
     {
-        // Input buka pintu
-        if (Input.GetKeyDown(KeyCode.E))
-        {
-            isOpen = !isOpen;
-        }
+        
 
         // Transisi posisi
         Vector3 targetLeft = isOpen ? leftClosedPos + leftOpenOffset : leftClosedPos;
@@ -39,5 +35,11 @@ public class SlidingDoor : MonoBehaviour
         leftDoor.localPosition = Vector3.Lerp(leftDoor.localPosition, targetLeft, Time.deltaTime * speed);
         rightDoor.localPosition = Vector3.Lerp(rightDoor.localPosition, targetRight, Time.deltaTime * speed);
     }
+    public void ToggleDoor()
+    {
+        isOpen = !isOpen;
+    }
+
 }
+
 
