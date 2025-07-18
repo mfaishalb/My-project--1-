@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Muhammad Faishal\\My project (1)\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\muhammad faishal\\my project (1)\\assets\\interactioncrosshair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\interactioncrosshair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\muhammad faishal\\my project (1)\\assets\\doortrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\doortrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "InteractionCrosshair.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\InteractionCrosshair.cs",
+              "RelativeDocumentMoniker": "Assets\\InteractionCrosshair.cs",
+              "ToolTip": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\InteractionCrosshair.cs",
+              "RelativeToolTip": "Assets\\InteractionCrosshair.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBIAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T04:25:29.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DoorTrigger.cs",
               "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\DoorTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\DoorTrigger.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SlidingDoor.cs",
               "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\SlidingDoor.cs",
               "RelativeDocumentMoniker": "Assets\\SlidingDoor.cs",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "Assets\\SlidingDoor.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAIwBwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T13:09:53.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T13:09:53.663Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
@@ -60,8 +76,7 @@
               "RelativeToolTip": "Assets\\PlayerMovement.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAiwDkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T07:59:00.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T07:59:00.416Z"
             }
           ]
         }
