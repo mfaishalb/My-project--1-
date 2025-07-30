@@ -5,7 +5,7 @@ using UnityEngine.Events;
 
 public class Interactable : MonoBehaviour
 {
-    public SlidingDoor slidingDoor;
+    
     Outline outline;
     public string message;
 
@@ -20,7 +20,7 @@ public class Interactable : MonoBehaviour
 
     public void Interact()
     {
-        slidingDoor.ToggleDoor();
+        onInteraction.Invoke();
     }
 
     public void DisableOutline()

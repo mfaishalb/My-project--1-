@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Muhammad Faishal\\My project (1)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Muhammad Faishal\\My project (1)\\assets\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\muhammad faishal\\my project (1)\\assets\\script\\itemso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\itemso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Muhammad Faishal\\My project (1)\\assets\\doortrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\doortrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\muhammad faishal\\my project (1)\\assets\\script\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Muhammad Faishal\\My project (1)\\assets\\slidingdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\slidingdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Muhammad Faishal\\My project (1)\\assets\\script\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Muhammad Faishal\\My project (1)\\assets\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\Interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\muhammad faishal\\my project (1)\\assets\\hudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\hudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\SlidingDoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SlidingDoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Muhammad Faishal\\My project (1)\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\ItemSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ItemSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\ItemPickable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ItemPickable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\PlayerInventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayerInventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\AnimatedDoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\AnimatedDoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,83 +54,126 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "SlidingDoor.cs",
               "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\SlidingDoor.cs",
               "RelativeDocumentMoniker": "Assets\\SlidingDoor.cs",
               "ToolTip": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\SlidingDoor.cs",
               "RelativeToolTip": "Assets\\SlidingDoor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAkAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T13:09:53.663Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PlayerInteraction.cs",
-              "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\PlayerInteraction.cs",
-              "RelativeDocumentMoniker": "Assets\\PlayerInteraction.cs",
-              "ToolTip": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\PlayerInteraction.cs",
-              "RelativeToolTip": "Assets\\PlayerInteraction.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAUwD8AAAA4AAAA",
+              "DocumentIndex": 5,
+              "Title": "ItemSO.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\ItemSO.cs",
+              "RelativeDocumentMoniker": "Assets\\ItemSO.cs",
+              "ToolTip": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\ItemSO.cs",
+              "RelativeToolTip": "Assets\\ItemSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T14:54:43.942Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-24T05:26:22.324Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Interactable.cs",
-              "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\Interactable.cs",
-              "RelativeDocumentMoniker": "Assets\\Interactable.cs",
-              "ToolTip": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\Interactable.cs",
-              "RelativeToolTip": "Assets\\Interactable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAjAAAA",
+              "Title": "ItemSO.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\SCRIPT\\ItemSO.cs",
+              "RelativeDocumentMoniker": "Assets\\SCRIPT\\ItemSO.cs",
+              "ToolTip": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\SCRIPT\\ItemSO.cs",
+              "RelativeToolTip": "Assets\\SCRIPT\\ItemSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T14:47:32.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HUDController.cs",
-              "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\HUDController.cs",
-              "RelativeDocumentMoniker": "Assets\\HUDController.cs",
-              "ToolTip": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\HUDController.cs",
-              "RelativeToolTip": "Assets\\HUDController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T15:03:04.338Z",
+              "WhenOpened": "2025-07-29T13:39:35.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DoorTrigger.cs",
-              "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\DoorTrigger.cs",
-              "RelativeDocumentMoniker": "Assets\\DoorTrigger.cs",
-              "ToolTip": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\DoorTrigger.cs",
-              "RelativeToolTip": "Assets\\DoorTrigger.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Title": "PlayerInteraction.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\SCRIPT\\PlayerInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\SCRIPT\\PlayerInteraction.cs",
+              "ToolTip": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\SCRIPT\\PlayerInteraction.cs",
+              "RelativeToolTip": "Assets\\SCRIPT\\PlayerInteraction.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAqwD8AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T07:50:15.524Z",
+              "WhenOpened": "2025-07-29T06:47:41.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
-              "ToolTip": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\PlayerMovement.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAiwDkAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "PlayerInventory.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\SCRIPT\\PlayerInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\SCRIPT\\PlayerInventory.cs",
+              "ToolTip": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\SCRIPT\\PlayerInventory.cs",
+              "RelativeToolTip": "Assets\\SCRIPT\\PlayerInventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T07:59:00.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T06:43:12.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Interactable.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\Interactable.cs",
+              "RelativeDocumentMoniker": "Assets\\Interactable.cs",
+              "ToolTip": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\Interactable.cs",
+              "RelativeToolTip": "Assets\\Interactable.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T08:27:42.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemPickable.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\ItemPickable.cs",
+              "RelativeDocumentMoniker": "Assets\\ItemPickable.cs",
+              "ToolTip": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\ItemPickable.cs",
+              "RelativeToolTip": "Assets\\ItemPickable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:52:45.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerInventory.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\PlayerInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerInventory.cs",
+              "ToolTip": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\PlayerInventory.cs",
+              "RelativeToolTip": "Assets\\PlayerInventory.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwGIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:39:52.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Item.cs",
+              "ToolTip": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\Item.cs",
+              "RelativeToolTip": "Assets\\Item.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:32:16.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnimatedDoor.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\AnimatedDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\AnimatedDoor.cs",
+              "ToolTip": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\AnimatedDoor.cs",
+              "RelativeToolTip": "Assets\\AnimatedDoor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T08:44:23.077Z"
             }
           ]
         }

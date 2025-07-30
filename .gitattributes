@@ -1,0 +1,3 @@
+*.cs text=auto eol=lf
+*.unity text eol=lf
+*.meta text eol=lf
