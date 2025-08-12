@@ -3,11 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\Muhammad Faishal\\My project (1)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\muhammad faishal\\my project (1)\\assets\\script\\itemso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\muhammad faishal\\my project (1)\\assets\\fixing wire\\wire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\fixing wire\\wire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\muhammad faishal\\my project (1)\\assets\\fixing wire\\wiremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\fixing wire\\wiremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28403FDC-0688-F9D2-BDD4-708471FA7940}|AmongUsTasks.csproj|C:\\Users\\Muhammad Faishal\\My project (1)\\assets\\among-us-tasks-main\\among-us-tasks-main\\assets\\amongus\\fixing wires\\scripts\\wiretargetrandomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28403FDC-0688-F9D2-BDD4-708471FA7940}|AmongUsTasks.csproj|solutionrelative:assets\\among-us-tasks-main\\among-us-tasks-main\\assets\\amongus\\fixing wires\\scripts\\wiretargetrandomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28403FDC-0688-F9D2-BDD4-708471FA7940}|AmongUsTasks.csproj|C:\\Users\\Muhammad Faishal\\My project (1)\\assets\\among-us-tasks-main\\among-us-tasks-main\\assets\\amongus\\fixing wires\\scripts\\wire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28403FDC-0688-F9D2-BDD4-708471FA7940}|AmongUsTasks.csproj|solutionrelative:assets\\among-us-tasks-main\\among-us-tasks-main\\assets\\amongus\\fixing wires\\scripts\\wire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28403FDC-0688-F9D2-BDD4-708471FA7940}|AmongUsTasks.csproj|C:\\Users\\Muhammad Faishal\\My project (1)\\assets\\among-us-tasks-main\\among-us-tasks-main\\assets\\amongus\\fixing wires\\scripts\\wiretargetindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28403FDC-0688-F9D2-BDD4-708471FA7940}|AmongUsTasks.csproj|solutionrelative:assets\\among-us-tasks-main\\among-us-tasks-main\\assets\\amongus\\fixing wires\\scripts\\wiretargetindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28403FDC-0688-F9D2-BDD4-708471FA7940}|AmongUsTasks.csproj|C:\\Users\\Muhammad Faishal\\My project (1)\\assets\\among-us-tasks-main\\among-us-tasks-main\\assets\\amongus\\fixing wires\\installers\\wireinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28403FDC-0688-F9D2-BDD4-708471FA7940}|AmongUsTasks.csproj|solutionrelative:assets\\among-us-tasks-main\\among-us-tasks-main\\assets\\amongus\\fixing wires\\installers\\wireinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28403FDC-0688-F9D2-BDD4-708471FA7940}|AmongUsTasks.csproj|C:\\Users\\Muhammad Faishal\\My project (1)\\assets\\among-us-tasks-main\\among-us-tasks-main\\assets\\amongus\\fixing wires\\scripts\\wireview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28403FDC-0688-F9D2-BDD4-708471FA7940}|AmongUsTasks.csproj|solutionrelative:assets\\among-us-tasks-main\\among-us-tasks-main\\assets\\amongus\\fixing wires\\scripts\\wireview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Muhammad Faishal\\My project (1)\\assets\\script\\itemso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\itemso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\muhammad faishal\\my project (1)\\assets\\script\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Muhammad Faishal\\My project (1)\\assets\\script\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -54,7 +82,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "SlidingDoor.cs",
               "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\SlidingDoor.cs",
               "RelativeDocumentMoniker": "Assets\\SlidingDoor.cs",
@@ -67,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "ItemSO.cs",
               "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\ItemSO.cs",
               "RelativeDocumentMoniker": "Assets\\ItemSO.cs",
@@ -81,6 +109,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "WIre.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\fixing wire\\WIre.cs",
+              "RelativeDocumentMoniker": "Assets\\fixing wire\\WIre.cs",
+              "ToolTip": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\fixing wire\\WIre.cs",
+              "RelativeToolTip": "Assets\\fixing wire\\WIre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T14:55:13.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WireManager.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\fixing wire\\WireManager.cs",
+              "RelativeDocumentMoniker": "Assets\\fixing wire\\WireManager.cs",
+              "ToolTip": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\fixing wire\\WireManager.cs",
+              "RelativeToolTip": "Assets\\fixing wire\\WireManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T14:53:50.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WireView.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\among-us-tasks-main\\among-us-tasks-main\\Assets\\AmongUs\\Fixing Wires\\Scripts\\WireView.cs",
+              "RelativeDocumentMoniker": "Assets\\among-us-tasks-main\\among-us-tasks-main\\Assets\\AmongUs\\Fixing Wires\\Scripts\\WireView.cs",
+              "ToolTip": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\among-us-tasks-main\\among-us-tasks-main\\Assets\\AmongUs\\Fixing Wires\\Scripts\\WireView.cs",
+              "RelativeToolTip": "Assets\\among-us-tasks-main\\among-us-tasks-main\\Assets\\AmongUs\\Fixing Wires\\Scripts\\WireView.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T14:44:14.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WireInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\among-us-tasks-main\\among-us-tasks-main\\Assets\\AmongUs\\Fixing Wires\\Installers\\WireInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\among-us-tasks-main\\among-us-tasks-main\\Assets\\AmongUs\\Fixing Wires\\Installers\\WireInstaller.cs",
+              "ToolTip": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\among-us-tasks-main\\among-us-tasks-main\\Assets\\AmongUs\\Fixing Wires\\Installers\\WireInstaller.cs",
+              "RelativeToolTip": "Assets\\among-us-tasks-main\\among-us-tasks-main\\Assets\\AmongUs\\Fixing Wires\\Installers\\WireInstaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwBEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T14:39:54.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Wire.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\among-us-tasks-main\\among-us-tasks-main\\Assets\\AmongUs\\Fixing Wires\\Scripts\\Wire.cs",
+              "RelativeDocumentMoniker": "Assets\\among-us-tasks-main\\among-us-tasks-main\\Assets\\AmongUs\\Fixing Wires\\Scripts\\Wire.cs",
+              "ToolTip": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\among-us-tasks-main\\among-us-tasks-main\\Assets\\AmongUs\\Fixing Wires\\Scripts\\Wire.cs",
+              "RelativeToolTip": "Assets\\among-us-tasks-main\\among-us-tasks-main\\Assets\\AmongUs\\Fixing Wires\\Scripts\\Wire.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAuwBAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T14:16:42.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WireTargetIndicator.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\among-us-tasks-main\\among-us-tasks-main\\Assets\\AmongUs\\Fixing Wires\\Scripts\\WireTargetIndicator.cs",
+              "RelativeDocumentMoniker": "Assets\\among-us-tasks-main\\among-us-tasks-main\\Assets\\AmongUs\\Fixing Wires\\Scripts\\WireTargetIndicator.cs",
+              "ToolTip": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\among-us-tasks-main\\among-us-tasks-main\\Assets\\AmongUs\\Fixing Wires\\Scripts\\WireTargetIndicator.cs",
+              "RelativeToolTip": "Assets\\among-us-tasks-main\\among-us-tasks-main\\Assets\\AmongUs\\Fixing Wires\\Scripts\\WireTargetIndicator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T14:15:53.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WireTargetRandomizer.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\among-us-tasks-main\\among-us-tasks-main\\Assets\\AmongUs\\Fixing Wires\\Scripts\\WireTargetRandomizer.cs",
+              "RelativeDocumentMoniker": "Assets\\among-us-tasks-main\\among-us-tasks-main\\Assets\\AmongUs\\Fixing Wires\\Scripts\\WireTargetRandomizer.cs",
+              "ToolTip": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\among-us-tasks-main\\among-us-tasks-main\\Assets\\AmongUs\\Fixing Wires\\Scripts\\WireTargetRandomizer.cs",
+              "RelativeToolTip": "Assets\\among-us-tasks-main\\among-us-tasks-main\\Assets\\AmongUs\\Fixing Wires\\Scripts\\WireTargetRandomizer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T14:03:05.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ItemSO.cs",
               "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\SCRIPT\\ItemSO.cs",
               "RelativeDocumentMoniker": "Assets\\SCRIPT\\ItemSO.cs",
@@ -88,12 +202,11 @@
               "RelativeToolTip": "Assets\\SCRIPT\\ItemSO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T13:39:35.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T13:39:35.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "PlayerInteraction.cs",
               "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\SCRIPT\\PlayerInteraction.cs",
               "RelativeDocumentMoniker": "Assets\\SCRIPT\\PlayerInteraction.cs",
@@ -101,12 +214,11 @@
               "RelativeToolTip": "Assets\\SCRIPT\\PlayerInteraction.cs",
               "ViewState": "AQIAADIAAAAAAAAAAAAqwD8AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T06:47:41.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T06:47:41.984Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "PlayerInventory.cs",
               "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\SCRIPT\\PlayerInventory.cs",
               "RelativeDocumentMoniker": "Assets\\SCRIPT\\PlayerInventory.cs",
@@ -118,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Interactable.cs",
               "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\Interactable.cs",
               "RelativeDocumentMoniker": "Assets\\Interactable.cs",
@@ -129,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "ItemPickable.cs",
               "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\ItemPickable.cs",
               "RelativeDocumentMoniker": "Assets\\ItemPickable.cs",
@@ -141,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "PlayerInventory.cs",
               "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\PlayerInventory.cs",
               "RelativeDocumentMoniker": "Assets\\PlayerInventory.cs",
@@ -153,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\Item.cs",
               "RelativeDocumentMoniker": "Assets\\Item.cs",
@@ -165,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "AnimatedDoor.cs",
               "DocumentMoniker": "C:\\Users\\Muhammad Faishal\\My project (1)\\Assets\\AnimatedDoor.cs",
               "RelativeDocumentMoniker": "Assets\\AnimatedDoor.cs",
