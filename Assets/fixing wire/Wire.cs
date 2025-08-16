@@ -52,6 +52,7 @@ public class Wire : MonoBehaviour
 
     void OnMouseDown()
     {
+        Debug.Log("Klik start point");
         Vector3 mousePos = cam.ScreenToWorldPoint(Input.mousePosition);
         if (Vector3.Distance(mousePos, startPoint.position) < 0.5f)
         {
