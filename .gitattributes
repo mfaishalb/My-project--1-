@@ -1,3 +1,31 @@
-*.cs text=auto eol=lf
-*.unity text eol=lf
-*.meta text eol=lf
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Unity files should be treated as binary
+*.unity binary
+*.prefab binary
+*.anim binary
+*.meta binary
+*.asset binary
+
+# Images
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.tga binary
+*.psd binary
+
+# Audio
+*.mp3 binary
+*.wav binary
+*.ogg binary
+
+# Fonts
+*.ttf binary
+*.otf binary
+
+# Video
+*.mp4 binary
+*.mov binary
+*.avi binary
